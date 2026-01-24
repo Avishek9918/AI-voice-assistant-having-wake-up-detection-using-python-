@@ -1,0 +1,14 @@
+ai-voice-assistant/
+├── main.py
+├── requirements.txt
+├── config.py
+├── README.md
+├── .env
+├── modules/
+│   ├── voice_processor.py
+│   ├── wake_word_detector.py
+│   ├── chatgpt_handler.py
+│   └── tts_engine.py
+└── utils/
+    ├── audio_utils.py
+    └── config_loader.py

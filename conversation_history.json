@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "how is the weather",
+    "timestamp": 1769249425.2867653
+  },
+  {
+    "role": "assistant",
+    "content": "I'm having trouble connecting to my brain right now. Please try again.",
+    "timestamp": 1769249425.2867663
+  }
+]
