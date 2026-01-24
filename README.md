@@ -286,19 +286,7 @@ The application gracefully handles:
 | API errors | Verify OPENAI_API_KEY is set and has available credits |
 | Speech synthesis issues | Check system audio output and TTS voice installation |
 
-## License
-
-[Specify your license here]
 
 ## Author
 
-[Your Name/Organization]
-
-## Contact
-
-For questions or support, please open an issue or contact the development team.
-
----
-
-**Last Updated**: January 2026
-**Version**: 1.0.0
+ABHISHEK
